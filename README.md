@@ -242,7 +242,7 @@ MIT License - feel free to use this project for learning and portfolio purposes.
 
 ## 📧 Contact
 
-Built by [Your Name] - [Your GitHub Profile]
+Built by Shay O'Reilly using Claude Code - [[GitHub Profile]](https://github.com/shay-o)
 
 Questions? Open an issue or reach out!
 
